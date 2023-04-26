@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amjad Bilal</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate **Pytohn(Dajngo)** developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadbilal&label=Profile%20views&color=0e75b6&style=flat" alt="amjadbilal" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/amjad_bilal70" target="blank"><img src="https://img.shields.io/twitter/follow/amjad_bilal70?logo=twitter&style=for-the-badge" alt="amjad_bilal70" /></a> </p>
 
-- 🔭 I’m currently working on **PHP**
+- 🔭 I’m currently working on **Pytohn**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m also currently learning **Django**
 
-- 👯 I’m looking to collaborate on **React JS**
+- 👯 I’m looking to collaborate on **Python Libs**
 
-- 💬 Ask me about **html,css,JS,Node JS,React JS**
+- 💬 Ask me about **html,css,JS,Django, Python**
 
 - 📫 How to reach me **amjadwattu3567@gmail.com**
 
