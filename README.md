@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/amjad_bilal70" target="blank"><img src="https://img.shields.io/twitter/follow/amjad_bilal70?logo=twitter&style=for-the-badge" alt="amjad_bilal70" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **JavaScritp**
 
-- 🌱 I’m also currently learning **Django**
+- 🌱 I’m also currently Machine Learning **ML**
 
-- 👯 I’m looking to collaborate on **Python Libs**
+- 👯 I’m looking to collaborate on **React Js **
 
-- 💬 Ask me about **html,css,JS,Django, Python**
+- 💬 Ask me about **html,css,JS,React Js, Node JS**
 
-- 📫 How to reach me **amjadwattu3567@gmail.com**
+- 📫 How to reach me **amjadbilal.fullstack@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
